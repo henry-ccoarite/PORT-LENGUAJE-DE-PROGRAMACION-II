@@ -1,0 +1,415 @@
+{
+    "987654321": {
+        "name": "Usuario Demo",
+        "history": []
+    },
+    "111222333": {
+        "name": "Admin Test",
+        "history": []
+    },
+    "921388740": {
+        "name": "HENRY CC",
+        "history": [
+            {
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "timestamp": 1761576328.0258148,
+                "simbolo": "$",
+                "extra_data": {
+                    "DNI": "7371312",
+                    "Tarjeta": "9812381741247918",
+                    "Titular": "HENRY CCOARITE DUEÑAS"
+                },
+                "txn_id": "7495E73A"
+            },
+            {
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "timestamp": 1761576364.0407817,
+                "simbolo": "S/.",
+                "extra_data": {
+                    "DNI": "7371312",
+                    "Tarjeta": "9812381741247918",
+                    "Titular": "HENRY CCOARITE DUEÑAS"
+                },
+                "txn_id": "B8DB69A0"
+            },
+            {
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "timestamp": 1761576409.9337127,
+                "simbolo": "S/.",
+                "extra_data": {
+                    "DNI": "7371312",
+                    "Tarjeta": "9812381741247918",
+                    "Titular": "HENRY CCOARITE DUEÑAS"
+                },
+                "txn_id": "E588D71F"
+            },
+            {
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "timestamp": 1761576415.077723,
+                "simbolo": "S/.",
+                "extra_data": {
+                    "DNI": "7371312",
+                    "Tarjeta": "9812381741247918",
+                    "Titular": "HENRY CCOARITE DUEÑAS"
+                },
+                "txn_id": "0E100F03"
+            },
+            {
+                "txn_id": "3666BCBC",
+                "timestamp": 1761576655.6697636,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "87ADE73C",
+                "timestamp": 1761576658.3060567,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "4988ED01",
+                "timestamp": 1761576691.8968027,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "248C4321",
+                "timestamp": 1761576695.3945174,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "DC8A64CA",
+                "timestamp": 1761576695.6320412,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "3B4070DF",
+                "timestamp": 1761576695.8573503,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "B8E417F3",
+                "timestamp": 1761576696.529529,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "F19B88FF",
+                "timestamp": 1761576696.7966948,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "2802D5F3",
+                "timestamp": 1761576697.0695179,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "7AF284DE",
+                "timestamp": 1761576697.294604,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "ABC55D53",
+                "timestamp": 1761576697.5062165,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "934F7FD8",
+                "timestamp": 1761576697.6512656,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "59061697",
+                "timestamp": 1761576697.8322363,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "0C7AA30F",
+                "timestamp": 1761576698.0640223,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "5C9A02E6",
+                "timestamp": 1761576698.2598507,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "CE8BF918",
+                "timestamp": 1761576698.5073943,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "279CC94E",
+                "timestamp": 1761576702.1826618,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "ECB6B73D",
+                "timestamp": 1761576702.5562556,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "B9101C0A",
+                "timestamp": 1761576703.0907886,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "E5666F96",
+                "timestamp": 1761576703.2913494,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "70AC4762",
+                "timestamp": 1761576703.479107,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "8FECB527",
+                "timestamp": 1761576703.7339706,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "CC2B0611",
+                "timestamp": 1761576704.4394844,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "1EA7F32C",
+                "timestamp": 1761576704.585678,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            },
+            {
+                "txn_id": "9DCCD704",
+                "timestamp": 1761576707.316336,
+                "monto": 50.0,
+                "metodo": "Efectivo",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {}
+            },
+            {
+                "txn_id": "DE2CC98A",
+                "timestamp": 1761576707.568326,
+                "monto": 50.0,
+                "metodo": "Efectivo",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {}
+            },
+            {
+                "txn_id": "9F8E86BF",
+                "timestamp": 1761576707.8647954,
+                "monto": 50.0,
+                "metodo": "Efectivo",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {}
+            },
+            {
+                "txn_id": "2FCE2DA7",
+                "timestamp": 1761576720.5677445,
+                "monto": 50.0,
+                "metodo": "Tarjeta",
+                "simbolo": "$",
+                "moneda": "Dólares",
+                "extra_data": {
+                    "DNI": "7371435",
+                    "Titular": "HENRY CCOARITE DUEÑAS",
+                    "Tarjeta": "12893932798124"
+                }
+            }
+        ]
+    }
+}
